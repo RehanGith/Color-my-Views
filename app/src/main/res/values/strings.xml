@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Colors By Views</string>
     <string name="box_one">Box One</string>
+    <string name="boxThree">Box Three</string>
+    <string name="boxFour">Box Four</string>
+    <string name="boxFive">Box Five</string>
+    <string name="boxTwo">Box Two</string>
 </resources>
