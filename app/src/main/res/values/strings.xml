@@ -5,4 +5,6 @@
     <string name="boxFour">Box Four</string>
     <string name="boxFive">Box Five</string>
     <string name="boxTwo">Box Two</string>
+    <string name="by_clicking_on_the_boxes">By Clicking on the boxes</string>
+    <string name="how_to_play">How to Play</string>
 </resources>
